@@ -1,0 +1,9 @@
+D:\SoftUni\Rado Proekti\Galya\2.ПростиПресмятанияГаля\16.ХваниБутона\bin\Debug\16.ХваниБутона.exe.config
+D:\SoftUni\Rado Proekti\Galya\2.ПростиПресмятанияГаля\16.ХваниБутона\bin\Debug\16.ХваниБутона.exe
+D:\SoftUni\Rado Proekti\Galya\2.ПростиПресмятанияГаля\16.ХваниБутона\bin\Debug\16.ХваниБутона.pdb
+D:\SoftUni\Rado Proekti\Galya\2.ПростиПресмятанияГаля\16.ХваниБутона\obj\Debug\16.ХваниБутона.csprojResolveAssemblyReference.cache
+D:\SoftUni\Rado Proekti\Galya\2.ПростиПресмятанияГаля\16.ХваниБутона\obj\Debug\_16.ХваниБутона.Form1.resources
+D:\SoftUni\Rado Proekti\Galya\2.ПростиПресмятанияГаля\16.ХваниБутона\obj\Debug\_16.ХваниБутона.Properties.Resources.resources
+D:\SoftUni\Rado Proekti\Galya\2.ПростиПресмятанияГаля\16.ХваниБутона\obj\Debug\16.ХваниБутона.csproj.GenerateResource.Cache
+D:\SoftUni\Rado Proekti\Galya\2.ПростиПресмятанияГаля\16.ХваниБутона\obj\Debug\16.ХваниБутона.exe
+D:\SoftUni\Rado Proekti\Galya\2.ПростиПресмятанияГаля\16.ХваниБутона\obj\Debug\16.ХваниБутона.pdb

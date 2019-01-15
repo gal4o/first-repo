@@ -1,0 +1,9 @@
+D:\SoftUni\Rado Proekti\1.ПървиСтъпкиГаля\07.Sumator\bin\Debug\07.Sumator.exe.config
+D:\SoftUni\Rado Proekti\1.ПървиСтъпкиГаля\07.Sumator\bin\Debug\07.Sumator.exe
+D:\SoftUni\Rado Proekti\1.ПървиСтъпкиГаля\07.Sumator\bin\Debug\07.Sumator.pdb
+D:\SoftUni\Rado Proekti\1.ПървиСтъпкиГаля\07.Sumator\obj\Debug\07.Sumator.csprojResolveAssemblyReference.cache
+D:\SoftUni\Rado Proekti\1.ПървиСтъпкиГаля\07.Sumator\obj\Debug\_07.Sumator.FormSumator.resources
+D:\SoftUni\Rado Proekti\1.ПървиСтъпкиГаля\07.Sumator\obj\Debug\_07.Sumator.Properties.Resources.resources
+D:\SoftUni\Rado Proekti\1.ПървиСтъпкиГаля\07.Sumator\obj\Debug\07.Sumator.csproj.GenerateResource.Cache
+D:\SoftUni\Rado Proekti\1.ПървиСтъпкиГаля\07.Sumator\obj\Debug\07.Sumator.exe
+D:\SoftUni\Rado Proekti\1.ПървиСтъпкиГаля\07.Sumator\obj\Debug\07.Sumator.pdb
